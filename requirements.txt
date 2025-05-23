@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+joblib
+Pillow
+requests
+lightgbm
+scikit-learn
